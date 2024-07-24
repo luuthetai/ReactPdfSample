@@ -10,7 +10,7 @@ const options = {
   standardFontDataUrl: "/standard_fonts/",
 };
 
-const maxWidth = 800;
+const maxWidth = 600;
 
 type PDFFile = string | File | null;
 

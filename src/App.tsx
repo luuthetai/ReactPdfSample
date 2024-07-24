@@ -1,4 +1,3 @@
-import React from "react";
 import { pdfjs } from "react-pdf";
 import PDFViewer from "./PDFViewer";
 
